@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Knowledge Base</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Knowledge Bases</value>
+    </caseValues>
+    <fields>
+        <label><!-- Article Types --></label>
+        <name>Article_Type__c</name>
+        <picklistValues>
+            <masterLabel>Answer</masterLabel>
+            <translation><!-- Answer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Article</masterLabel>
+            <translation><!-- Article --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Knowledge</masterLabel>
+            <translation><!-- Knowledge --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>News</masterLabel>
+            <translation><!-- News --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Solution</masterLabel>
+            <translation><!-- Solution --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Association --></label>
+        <name>Association__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data Solution --></label>
+        <name>Data_Solution__c</name>
+    </fields>
+    <fields>
+        <label><!-- Data category --></label>
+        <name>Data_category__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
