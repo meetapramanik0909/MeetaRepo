@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>52.0</version>
+    <types>
+        <members>ABCSample</members>
+        <members>AR_AccountDuplicate_Helper</members>
+        <members>AbcLyndaCreated</members>
+        <members>AcademyContent</members>
+        <members>AccountContact</members>
+        <members>AccountController</members>
+        <members>AccountHandler</members>
+        <members>AccountTriggerHandler</members>
+        <members>AccountUtils</members>
+        <name>ApexClass</name>
+    </types>
+</Package>
