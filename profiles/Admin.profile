@@ -2,7 +2,8 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
         <apexClass>AccountContact</apexClass>
-        <enabled>true</enabled>
+        <apexClass>AccountController</apexClass>
+        <enabled>true</enabled>	
     </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
@@ -12,6 +13,14 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>Entity__c-Entity Layout</layout>
+	</layoutAssignments>
+	<fieldPermissions>
+		<editable>true</editable>
+        <field>Entry_Point__c.Entry_Level__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>Entry_Point__c-Entry Point Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -20,6 +29,7 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Entity__c</object>
+        <object>Entry_Point__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <userLicense>Salesforce</userLicense>
