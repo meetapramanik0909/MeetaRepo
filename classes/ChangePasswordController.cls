@@ -13,6 +13,6 @@ public with sharing class ChangePasswordController {
     
      public ChangePasswordController() {
          //return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
-         //Comment
+         //Comment in conflicted line
      }
 }
