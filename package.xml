@@ -10,6 +10,7 @@
         <members>AccountHandler</members>
         <members>AccountTriggerHandler</members>
         <members>AccountUtils</members>
+        <members>ChangePasswordController</members>
         <name>ApexClass</name>
     </types>
     <types>
