@@ -8,11 +8,11 @@ public with sharing class ChangePasswordController {
     
     public PageReference changePassword() {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
-        //Comment on same line
+        //Comment
     }     
     
      public ChangePasswordController() {
          //return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
-         //Comment
+         //Comment in same place to see the conflicts //Meeta pramanik
      }
 }
