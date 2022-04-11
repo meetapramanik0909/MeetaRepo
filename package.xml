@@ -14,16 +14,19 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Bucket__c.Bucket_Name__c</members>
         <members>Collection_List__c.List_Entry__c</members>
         <members>Entity__c.Entity_name__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Bucket__c</members>
         <members>Collection_List__c</members>
         <members>Entity__c</members>
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Bucket__c-Bucket Layout</members>
         <members>Collection_List__c-Collection List Layout</members>
         <members>Entity__c-Entity Layout</members>
         <name>Layout</name>

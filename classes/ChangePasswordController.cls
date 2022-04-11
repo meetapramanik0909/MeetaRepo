@@ -14,5 +14,6 @@ public with sharing class ChangePasswordController {
      public ChangePasswordController() {
          //return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
          //Comment in conflicted line
+         //Comment in same place to see the conflicts //Meeta pramanik
      }
 }
