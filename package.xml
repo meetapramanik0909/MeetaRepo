@@ -6,15 +6,18 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Demo_BL__c.Named__c</members>
         <members>GT_Object__c.Name__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Demo_BL__c</members>
         <members>Entry_Point__c</members>
         <members>GT_Object__c</members>
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Demo_BL__c-Demo BL Layout</members>
         <members>Entry_Point__c-Entry Point Layout</members>
         <members>GT_Object__c-GT Object Layout</members>
         <name>Layout</name>

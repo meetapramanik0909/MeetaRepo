@@ -7,15 +7,32 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Demo_BL__c.Named__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>GT_Object__c.Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Demo_BL__c-Demo BL Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Entry_Point__c-Entry Point Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>GT_Object__c-GT Object Layout</layout>
     </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Demo_BL__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
