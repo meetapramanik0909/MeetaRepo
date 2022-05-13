@@ -2508,6 +2508,7 @@
         <members>TimeSlot.Type</members>
         <members>Tower__c.Location__c</members>
         <members>Tower__c.State__c</members>
+        <members>Union__c.Name__c</members>
         <members>User.DB_Region__c</members>
         <members>User.Dashboard_Pal__Default_Dashboard__c</members>
         <members>User.ManagerId</members>
@@ -2986,6 +2987,7 @@
         <members>Topic</members>
         <members>TopicAssignment</members>
         <members>Tower__c</members>
+        <members>Union__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <members>UserTerritory2Association</members>
@@ -3522,6 +3524,7 @@
         <members>TimeSheetEntry-Time Sheet Entry Layout</members>
         <members>TimeSlot-Time Slot Layout</members>
         <members>Tower__c-Tower Layout</members>
+        <members>Union__c-Union Layout</members>
         <members>User-User Layout</members>
         <members>UserAlt-User Profile Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
