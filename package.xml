@@ -1371,6 +1371,7 @@
         <members>Financial_Account__c.Date_of_Assigmment__c</members>
         <members>Financial_Account__c.Market_Value__c</members>
         <members>Financial_Account__c.Year_of_Assignment__c</members>
+        <members>Focus__c.Area__c</members>
         <members>HistoryTrack__c.HT1__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
@@ -2825,6 +2826,7 @@
         <members>FinanceBalanceSnapshot</members>
         <members>FinanceTransaction</members>
         <members>Financial_Account__c</members>
+        <members>Focus__c</members>
         <members>HistoryTrack__c</members>
         <members>Idea</members>
         <members>Image</members>
@@ -3403,6 +3405,7 @@
         <members>FinanceTransaction-Finance Transaction Layout</members>
         <members>Financial_Account__c-Financial Account -PM</members>
         <members>Financial_Account__c-Financial Account Layout</members>
+        <members>Focus__c-Focus Layout</members>
         <members>Global-Global Layout</members>
         <members>HistoryTrack__c-HistoryTrack Layout</members>
         <members>Idea-Idea Layout</members>
