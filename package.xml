@@ -23,6 +23,7 @@
         <members>Entity__c.Entity_name__c</members>
         <members>GT_Object__c.Name__c</members>
         <members>Name__c.TestField__c</members>
+        <members>Saas_based__c.Value__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -32,6 +33,7 @@
         <members>Entity__c</members>
         <members>GT_Object__c</members>
         <members>Name__c</members>
+        <members>Saas_based__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -41,6 +43,7 @@
         <members>Entity__c-Entity Layout</members>
         <members>GT_Object__c-GT Object Layout</members>
         <members>Name__c-DemoWLF Layout</members>
+        <members>Saas_based__c-Saas based Layout</members>
         <name>Layout</name>
     </types>
     <types>
