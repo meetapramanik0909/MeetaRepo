@@ -12,9 +12,11 @@
         <members>AccountTriggerHandler</members>
         <members>AccountUtils</members>
         <members>ChangePasswordController</members>
+        <members>ContactsTodayController</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.Active__c</members>
         <members>Bucket__c.Bucket_Name__c</members>
         <members>Collection_List__c.List_Entry__c</members>
         <members>DataObject__c.Name__c</members>
