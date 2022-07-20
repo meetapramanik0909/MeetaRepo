@@ -1,7 +1,7 @@
 public with sharing class ABCMerge{
    public static List<Account> getAtAllActiveAccountsToRepo() {
     return [SELECT Id,Name,Active__c FROM Account WHERE Active__c = 'Yes'];
-    //modification
+    //modification on CS scan
     //updated
   }
   //Addition on line 10
